@@ -2,6 +2,8 @@
 
 たなこふ
 
+![screenshot](https://raw.githubusercontent.com/mattn/vim-tanakh/master/screenshot.gif)
+
 ## License
 
 MIT
